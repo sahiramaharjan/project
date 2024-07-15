@@ -11,5 +11,5 @@ const ChildComp = ({isOn,toggleSwitch}) => {
     </div>
   );
 };
-
+    
 export default ChildComp;
